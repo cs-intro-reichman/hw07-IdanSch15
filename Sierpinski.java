@@ -1,3 +1,7 @@
+/*
+Feedback: nicely written :)
+*/
+
 /** Draws ths Sierpinski Triangle fractal. */
 public class Sierpinski {
 	
@@ -43,3 +47,4 @@ public class Sierpinski {
         sierpinski(n - 1, x13, x23, x3, y13, y23, y3);
 	}
 }
+
